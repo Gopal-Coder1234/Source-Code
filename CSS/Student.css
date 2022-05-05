@@ -1,0 +1,57 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.container{
+    background-image: url(/Images/bg-image.jpg);
+    background-size:cover;
+    height: 150vh;
+}
+
+
+.card-heading{
+    font-size: 36px;
+    font-family: "Roboto";
+    font-weight: bold;
+    color:chocolate;
+    text-align: center; 
+}
+
+.form{
+    border-style: solid;
+    margin: 70px;
+    border-color: darkcyan;
+    border-radius: 10px;
+   
+
+}
+ .student-info{
+     background-color: black;
+     width:400px;
+     margin: 25px;
+     color: white;
+     
+ }   
+ label{
+     color:black;
+     font-size: 26px;
+     font-weight: bold;
+     font-family: "Roboto";
+ }   
+ 
+button{
+    background-color: chocolate;
+    color: white;
+    height: 36px;
+    width: 136px;
+    text-align: center;
+    border-radius: 10px;
+    cursor: pointer;
+    
+    
+    
+}
+a{
+    text-decoration: none;
+}

@@ -1,0 +1,82 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.container{
+    background-image: url(/Images/blood.png);
+    background-size:cover;
+    height: 200vh;
+    
+
+}
+.card-heading{
+    background-color: red;
+    color:white;
+    text-align: center;
+}
+.form{
+    margin: 50px;
+    border-style: solid;
+    box-shadow: 20px white;
+    border-width: 0px;
+  
+    
+}
+
+.type-1{
+    display: flex;
+    flex-direction: row;
+    
+}
+input{
+    height: 50px;
+    width: 300px;
+    margin-top: auto;
+    margin-bottom: auto;
+    border-radius: 10px;
+    float: right;
+    margin: auto;
+    margin-right: 500px;
+    
+   
+}
+label{
+    font-size:26px;
+    font-weight: bold;
+    color:chocolate;
+    margin: 20px;
+    
+}
+
+.first{
+    display: flex;
+    flex-direction: column;
+    
+}
+textarea{
+    margin-right: 500px;
+    float: right;
+    height: 50px;
+    width: 300px;
+    border-radius: 10px;
+    border-width: 2px;
+    
+    
+   
+
+}
+button{
+    background-color: green;
+    color:white;
+    font-weight: bold;
+    height: 36px;
+    width: 136px;
+    border-radius: 10px;
+    border-width: 0px;
+    /* margin-left: 700px; */
+    cursor: pointer;
+}
+a{
+    text-decoration: none;
+    color: white;
+}

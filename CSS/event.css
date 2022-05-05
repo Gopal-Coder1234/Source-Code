@@ -1,0 +1,55 @@
+
+h1{
+    font-size: 26px;
+    font-family: "Roboto";
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    
+    
+}
+.form{
+    border-style: solid;
+    box-shadow: 10px 10px 10px 10px white;
+    border-radius: 10px;
+    border-color: bisque;
+    margin: 50px;
+}
+p{
+    font-size: 20px;
+    font-family: "Roboto";
+    font-weight: 200;
+    color:black;
+    margin: 10px;
+}
+h2{
+    font-size: 20px;
+    font-family: "Roboto";
+    font-weight: 500;
+    color: black;
+    
+}
+span{
+    color: red;
+}
+input{
+    margin: 10px;
+    margin-top: 0px;
+    color: white;
+}
+button{
+    background-color:forestgreen;
+    color: white;
+    font-weight: bold;
+   
+    height: 36px;
+    width: 136px;
+    border-radius: 10px;
+
+    cursor: pointer;
+    margin-left: 400px;
+    
+}
+select{
+    margin:10px;
+}
